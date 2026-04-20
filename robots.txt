@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-sye7z8.gcpinboxes.com/sitemap.xml
